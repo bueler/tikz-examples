@@ -11,17 +11,17 @@ This repo contains a grab bag of LaTeX [TikZ](https://texample.net/tikz/) exampl
 
 * [`difference-quotients.tex`](difference-quotients.tex):
 <p align="center">
-  <img src="results/difference-quotients.jpg" height="250" /img> </a>
+  <img src="results/difference-quotients.jpg" height="300" /img> </a>
 </p>
 
 * [`div-free-orthogonal.tex`](div-free-orthogonal.tex):
 <p align="center">
-  <img src="results/div-free-orthogonal.jpg" height="250" /img> </a>
+  <img src="results/div-free-orthogonal.jpg" height="300" /img> </a>
 </p>
 
 * [`fluid-domain.tex`](fluid-domain.tex):
 <p align="center">
-  <img src="results/fluid-domain.jpg" height="250" /img> </a>
+  <img src="results/fluid-domain.jpg" height="300" /img> </a>
 </p>
 
 * [`q1gridandref.tex`](q1gridandref.tex):
@@ -31,12 +31,12 @@ This repo contains a grab bag of LaTeX [TikZ](https://texample.net/tikz/) exampl
 
 * [`q1hat.tex`](q1hat.tex):
 <p align="center">
-  <img src="results/q1hat.jpg" height="150" /img> </a>
+  <img src="results/q1hat.jpg" height="250" /img> </a>
 </p>
 
 * [`unitsquaregridstencil.tex`](unitsquaregridstencil.tex):
 <p align="center">
-  <img src="results/unitsquaregridstencil.jpg" height="150" /img> </a>
+  <img src="results/unitsquaregridstencil.jpg" height="250" /img> </a>
 </p>
 
 * [`v-cycle.tex`](v-cycle.tex):
