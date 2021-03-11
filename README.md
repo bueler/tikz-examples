@@ -56,6 +56,6 @@ Then use `convert` from ImageMagick:
 
     $ convert -density 300 -quality 100 file.pdf results/file.jpg
 
-For this to work, one may need to `/etc/ImageMagick-6/policy.xml` to comment-out a line which looks like
+For this to work on Ubuntu, one may need to edit `/etc/ImageMagick-6/policy.xml` to comment-out a line which looks like
 
     <policy domain="coder" rights="none" pattern="PDF" />
