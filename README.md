@@ -11,7 +11,7 @@ Each example `.tex` here uses the `standalone` LaTeX class to create the image. 
 
 * [`cycles.tex`](cycles.tex):
 <p align="center">
-  <img src="results/cycles.jpg" height="150" /img> </a>
+  <img src="results/cycles.jpg" height="110" /img> </a>
 </p>
 
 * [`difference-quotients.tex`](difference-quotients.tex):
