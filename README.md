@@ -1,8 +1,8 @@
 # tikz-examples
 
-## just a grab bag!
+This is a grab bag of LaTeX [TikZ](https://texample.net/tikz/) examples which I have created for various reasons, for possible future use.
 
-This repo contains a grab bag of LaTeX [TikZ](https://texample.net/tikz/) examples which I have created for various reasons and might want to work from.  Each `.tex` uses the `standalone` LaTeX class to just get the image, but cut-and-paste from the `.tex` will easily put the example in your document.
+Each example `.tex` here uses the `standalone` LaTeX class to create the image.  If you want to use the figure in your document then cut-and-paste the `tikzfigure` environment from the example `.tex` here.  Also note which packages are needed; `\usepackage{tikz}` is required in all cases, but an extra library may be needed.  See the preamble of the example.
 
 * [`advectlimiter.tex`](advectlimiter.tex):
 <p align="center">
