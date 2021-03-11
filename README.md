@@ -26,6 +26,8 @@ This repo contains a grab bag of LaTeX [TikZ](https://texample.net/tikz/) exampl
 
 ## generating the image files for inclusion above
 
+<i>These instructions are about making the current `README.md` at [github.com/bueler/tikz-examples](https://github.com/bueler/tikz-examples) look right.  Ignore it if you are grabbing examples from the above.</i>
+
 Run `pdflatex` on each `.tex` you care about.  Then do
 
     $ make cropfigures
