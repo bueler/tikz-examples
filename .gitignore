@@ -1,4 +1,5 @@
 /*.pdf
+/*.jpg   # but look in results
 
 ## Core latex/pdflatex auxiliary files:
 *.aux

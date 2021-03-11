@@ -1,6 +1,6 @@
 all:
 
-_figures := fluid-domain v-cycle
+_figures := fluid-domain v-cycle difference-quotients div-free-orthogonal
 figures := $(addsuffix .pdf, $(_figures))
 
 cropfigures: $(figures)
