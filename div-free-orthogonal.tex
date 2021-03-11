@@ -1,0 +1,23 @@
+\documentclass{standalone}
+
+% put this in your preamble
+\usepackage{tikz}
+
+\begin{document}
+
+% put this tikzpicture block in your LaTeX document where you want the figure
+\begin{tikzpicture}[scale=2.0]
+% show C, C' in X
+  \draw (-2,-1) -- (2,-1) -- (1.2,0.7) -- (-1.2,0.7) -- cycle;  % C is a trapezoid
+  \draw (0,-1.5) -- (0,-1);
+  \draw[dotted, gray] (0,-1) -- (0,0);
+  \draw (0,0) -- (0,2.1);
+  \filldraw (0,0) circle (1.0pt) node[xshift=2mm,yshift=-1mm] {$0$};
+
+% math labels
+  \node at (1.1,-0.7) {$C = \{\nabla\cdot u=0\}$};
+  \node[rotate=90] at (-0.15,1.4) {$C' = \{u=\nabla p\}$};
+  \node at (1.4,1.8) {$X = (L^2(\Omega))^n$};
+\end{tikzpicture}
+
+\end{document}
