@@ -4,6 +4,11 @@
 
 This repo contains a grab bag of LaTeX [TikZ](https://texample.net/tikz/) examples which I have created for various reasons and might want to work from.  Each `.tex` uses the `standalone` LaTeX class to just get the image, but cut-and-paste from the `.tex` will easily put the example in your document.
 
+* [`advectlimiter.tex`](advectlimiter.tex):
+<p align="center">
+  <img src="results/advectlimiter.jpg" height="250" /img> </a>
+</p>
+
 * [`difference-quotients.tex`](difference-quotients.tex):
 <p align="center">
   <img src="results/difference-quotients.jpg" height="250" /img> </a>
@@ -17,6 +22,21 @@ This repo contains a grab bag of LaTeX [TikZ](https://texample.net/tikz/) exampl
 * [`fluid-domain.tex`](fluid-domain.tex):
 <p align="center">
   <img src="results/fluid-domain.jpg" height="250" /img> </a>
+</p>
+
+* [`q1gridandref.tex`](q1gridandref.tex):
+<p align="center">
+  <img src="results/q1gridandref.jpg" height="250" /img> </a>
+</p>
+
+* [`q1hat.tex`](q1hat.tex):
+<p align="center">
+  <img src="results/q1hat.jpg" height="150" /img> </a>
+</p>
+
+* [`unitsquaregridstencil.tex`](unitsquaregridstencil.tex):
+<p align="center">
+  <img src="results/unitsquaregridstencil.jpg" height="150" /img> </a>
 </p>
 
 * [`v-cycle.tex`](v-cycle.tex):

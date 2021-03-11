@@ -1,9 +1,9 @@
 all:
 
-_figures := fluid-domain v-cycle difference-quotients div-free-orthogonal
+_figures := fluid-domain v-cycle difference-quotients div-free-orthogonal advectlimiter q1gridandref q1hat unitsquaregridstencil
 figures := $(addsuffix .pdf, $(_figures))
 
-cropfigures: $(figures)
+cropfigures:
 	for X in $(figures); do \
 	     (pdfcrop $$X $$X); \
 	done
