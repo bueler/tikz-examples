@@ -1,6 +1,6 @@
 all:
 
-_figures := fluid-domain v-cycle difference-quotients div-free-orthogonal advectlimiter q1gridandref q1hat unitsquaregridstencil
+_figures := fluid-domain cycles difference-quotients div-free-orthogonal advectlimiter q1gridandref q1hat unitsquaregridstencil
 figures := $(addsuffix .pdf, $(_figures))
 
 cropfigures:

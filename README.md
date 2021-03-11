@@ -9,6 +9,11 @@ Each example `.tex` here uses the `standalone` LaTeX class to create the image. 
   <img src="results/advectlimiter.jpg" height="250" /img> </a>
 </p>
 
+* [`cycles.tex`](cycles.tex):
+<p align="center">
+  <img src="results/cycles.jpg" height="150" /img> </a>
+</p>
+
 * [`difference-quotients.tex`](difference-quotients.tex):
 <p align="center">
   <img src="results/difference-quotients.jpg" height="300" /img> </a>
@@ -37,11 +42,6 @@ Each example `.tex` here uses the `standalone` LaTeX class to create the image. 
 * [`unitsquaregridstencil.tex`](unitsquaregridstencil.tex):
 <p align="center">
   <img src="results/unitsquaregridstencil.jpg" height="250" /img> </a>
-</p>
-
-* [`v-cycle.tex`](v-cycle.tex):
-<p align="center">
-  <img src="results/v-cycle.jpg" height="150" /img> </a>
 </p>
 
 ## generating the image files for inclusion above
